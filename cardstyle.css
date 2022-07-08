@@ -1,0 +1,65 @@
+ul{
+    overflow: hidden;
+   background-color: rgb(171, 130, 238);
+}
+li{    
+    list-style-type: none;
+    float: right;
+    padding: 16px;
+}
+.h1{
+    font-size: xx-large;
+}
+.header{
+   float:left;
+}
+body
+{
+    background-position: 10px;
+}    
+
+.fotter{
+    padding-top: 700px;
+    text-align: left;
+    background-color: crimson;
+}
+
+.card {
+    margin-top: 55px;
+    margin-left: 140px;
+    border-style: groove;
+    border-color: blue;
+    width: fit-content;
+    height: fit-content;
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: brown;
+    background-color: chartreuse;
+}
+
+.watch {
+    margin-top: 40px;
+    margin-left: 100px;
+    border-style: dashed;
+    border-color: orangered;
+    width: fit-content;
+    height: fit-content;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.headphone {
+    margin-top: 20px;
+    margin-left: 80px;
+    border-style: double;
+    border-color: darkgreen width: fit-content;
+    height : fit-content;
+    float: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: aquamarine;
+}
